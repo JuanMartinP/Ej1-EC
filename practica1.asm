@@ -1,17 +1,4 @@
-######################################################################
-## Fichero: Desemsamblar.txt
-## Descripción: Programa que realiza operaciones con datos de memoria
-## Fecha última modificación: 2017-03-13
-## Autores: Alberto Sánchez, Ángel de Castro
-## Asignatura: E.C. 1º grado
-## Grupo de Prácticas: 
-## Grupo de Teoría: 
-## Práctica: 3
-## Ejercicio: 1
-######################################################################
-
-
-################# Segmento de código #################
+################# Segmento de cÃ³digo #################
 .text
 main:	lw $at, y
 	sll $v0, $at, 8
